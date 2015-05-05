@@ -16,8 +16,9 @@ Once your container is running, you should be able to run the samples
 		nfc-poll \\ poll the reader for a token
 
 ###Helpful Links
-http://forums.adafruit.com/viewtopic.php?f=19&t=29572&p=231140&hilit=pn532#p231140
-https://github.com/nfc-tools/libnfc/blob/master/README
-http://nfc-tools.org/index.php?title=Libnfc
-http://matt.bionicmessage.net/blog/2010/02/07/Poking%20around%20on%20a%20Mifare%20card:%20LibNFC%20crash%20course
-http://buzzdavidson.com/?p=499
+- http://forums.adafruit.com/viewtopic.php?f=19&t=29572&p=231140&hilit=pn532#p231140
+- https://github.com/nfc-tools/libnfc/blob/master/README
+- http://nfc-tools.org/index.php?title=Libnfc
+- http://matt.bionicmessage.net/blog/2010/02/07/Poking%20around%20on%20a%20Mifare%20card:%20LibNFC%20crash%20course
+- http://buzzdavidson.com/?p=499
+- https://learn.adafruit.com/adafruit-pn532-rfid-nfc/ndef
